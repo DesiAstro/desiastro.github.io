@@ -1,6 +1,6 @@
 ### Welcome to my page!
 
-![profile picture]("./weic2210a.jpg")
+![profile picture](./weic2210a.jpg)
 
 #### Jyoti Prakash
 
